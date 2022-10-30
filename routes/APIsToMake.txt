@@ -1,0 +1,27 @@
+Get All Departments
+Get All Patients
+Get All Doctors
+Get All Nurses
+Get All Procedures
+Get All Rooms
+Get All Medecines   
+Get Appointments - Add filtering property with respect to patient, nurse, doctor.
+
+show appointments for a particular Doctors
+delete a particular appointment by appointment id
+
+show prescriptions made by a doctor to a particular Patients
+delete prescription made by a doctor to a Patients
+
+show prescriptions for a patient with a particular patient id
+show appointments for a patient with a particular patient id
+show seperate bill for a patient for different things
+
+
+And with this you have to show different things : 
+slot management kaise karna hai - query likhni padegi
+room, doctor aur slot manage karna hai
+
+write queries with sorting etc. 
+
+
